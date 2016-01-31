@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{crane:sosp15}
+H.~Cui, R.~Gu, C.~Liu, and J.~Yang.
+\newblock Paxos made transparent.
+\newblock In {\em Proceedings of the 25th ACM Symposium on Operating Systems
+  Principles (SOSP '15)}, Oct. 2015.
+
+\bibitem{woodpecker:asplos13}
+H.~Cui, G.~Hu, J.~Wu, and J.~Yang.
+\newblock Verifying systems rules using rule-directed symbolic execution.
+\newblock In {\em Eighteenth International Conference on Architecture Support
+  for Programming Languages and Operating Systems (ASPLOS '13)}, 2013.
+
+\bibitem{parrot:sosp13}
+H.~Cui, J.~Simsa, Y.-H. Lin, H.~Li, B.~Blum, X.~Xu, J.~Yang, G.~A. Gibson, and
+  R.~E. Bryant.
+\newblock Parrot: a practical runtime for deterministic, stable, and reliable
+  threads.
+\newblock In {\em Proceedings of the 24th ACM Symposium on Operating Systems
+  Principles (SOSP '13)}, Nov. 2013.
+
+\bibitem{peregrine:sosp11}
+H.~Cui, J.~Wu, J.~Gallagher, H.~Guo, and J.~Yang.
+\newblock Efficient deterministic multithreading through schedule relaxation.
+\newblock In {\em Proceedings of the 23rd ACM Symposium on Operating Systems
+  Principles (SOSP '11)}, pages 337--351, Oct. 2011.
+
+\bibitem{cui:tern:osdi10}
+H.~Cui, J.~Wu, C.-C. Tsai, and J.~Yang.
+\newblock Stable deterministic multithreading through schedule memoization.
+\newblock In {\em Proceedings of the Ninth Symposium on Operating Systems
+  Design and Implementation (OSDI '10)}, Oct. 2010.
+
+\bibitem{wu:pldi12}
+J.~Wu, Y.~Tang, G.~Hu, H.~Cui, and J.~Yang.
+\newblock Sound and precise analysis of parallel programs through schedule
+  specialization.
+\newblock In {\em Proceedings of the ACM SIGPLAN 2012 Conference on Programming
+  Language Design and Implementation (PLDI '12)}, pages 205--216, June 2012.
+
+\bibitem{smt:cacm}
+J.~Yang, H.~Cui, J.~Wu, Y.~Tang, and G.~Hu.
+\newblock Determinism is not enough: Making parallel programs reliable with
+  stable multithreading.
+\newblock {\em Communications of the ACM}, 2014.
+
+\end{thebibliography}
